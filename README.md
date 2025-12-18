@@ -5,6 +5,11 @@ These are my current projects:
 
 This project is an initial prototype of a 2D farming sim game, my first introduction to the Godot engine.
 
+https://github.com/user-attachments/assets/a90c03d7-50ad-4bf3-b23a-26ddab8a231b
+
+https://github.com/user-attachments/assets/d927ed06-4ef3-4415-9d4b-0fe110f8fa4b
+
+
 [**React Timer App**](https://github.com/ainyafzaldev/timer)
 
 I created a productivity timer app in React to help schedule and follow all the tasks I have on my to do list.
