@@ -1,28 +1,45 @@
-## Hi there 👋 I'm Ainy Afzal.
+# Hi there 👋 I'm Ainy Afzal.
 These are my current projects:
 
-[**Godot 2D prototype**](https://github.com/ainyafzaldev/farmingsim)
+## [Godot 3D Decorating Game](https://github.com/ainyafzaldev/3d_inventory.git)
+
+Released a basic Room Decorating Game on Itch.io, a simple 3D game made using the Godot engine.
+<details>
+  <summary> Demo Videos </summary>
+
+https://github.com/user-attachments/assets/c89cd8ac-6f74-4419-bf8d-8f7b54bd2d71
+
+https://github.com/user-attachments/assets/7aa82636-d12d-4147-890e-9c538d2a2976
+
+https://github.com/user-attachments/assets/5ca925f8-7a97-433b-b656-c1c0acabb4b7
+</details>
+
+
+
+## [**Godot 2D prototype**](https://github.com/ainyafzaldev/farmingsim)
 
 This project is an initial prototype of a 2D farming sim game, my first introduction to the Godot engine.
-
+<details>
+  <summary> Demo Videos </summary>
 
 https://github.com/user-attachments/assets/d31d8314-f6ac-47dc-a32f-672d932346c5
 
 https://github.com/user-attachments/assets/f43b5391-a4b2-4015-baa5-67a925a6e506
+</details>
 
 
-
-[**React Timer App**](https://github.com/ainyafzaldev/timer)
+## [**React Timer App**](https://github.com/ainyafzaldev/timer)
 
 I created a productivity timer app in React to help schedule and follow all the tasks I have on my to do list.
 
-[**Rust 3D prototype**](https://github.com/ainyafzaldev/tree_scene)
+## [**Rust 3D prototype**](https://github.com/ainyafzaldev/tree_scene)
 
 This project is my first experience with 3D game devlopment in Rust using the Bevy engine.
-
+<details>
+  <summary> Demo Video </summary>
 
 https://github.com/user-attachments/assets/5392594f-aa6f-44b1-83ea-b801f71a7549
-
+</details>
 
 
 ## About Me ##
@@ -30,22 +47,18 @@ https://github.com/user-attachments/assets/5392594f-aa6f-44b1-83ea-b801f71a7549
 I'm a **Software Engineer** currently located in ✨ Boston ✨ I have a beautiful cat name Omi.
 
 
-<img src="https://github.com/user-attachments/assets/4294f5c1-b763-44e4-96bc-135bc01bb19f" width="500" >
-
+<img src="https://github.com/user-attachments/assets/4294f5c1-b763-44e4-96bc-135bc01bb19f" width="200" ><img src="https://github.com/user-attachments/assets/26bd6ed2-daf9-4939-a42d-92b51aaf7541" width="200" >
 
 
 
 In my free time, I love to play **video games** like as Legend of Zelda, Dinkum and Civilization. 
 
-<img src="https://github.com/user-attachments/assets/a0032c68-e3cf-4c32-8e81-252ede7b3d95" width="500" >
-<br/>
-
-<img src="https://github.com/user-attachments/assets/5c18fcfe-9513-4f67-ac2a-e691c3751512" width="500" >
+<img src="https://github.com/user-attachments/assets/a0032c68-e3cf-4c32-8e81-252ede7b3d95" width="400" ><img src="https://github.com/user-attachments/assets/5c18fcfe-9513-4f67-ac2a-e691c3751512" width="200" >
 
 
 I'm also a **runner**, **gardener** and **landscape painter**.
 
-<img src="https://github.com/user-attachments/assets/ea7c3a67-6c9b-48dd-a2d4-a972447b0f89" width="500" ><img src="https://github.com/user-attachments/assets/58b4d61e-1203-46ba-9422-2105a25685f0" width="500" >
+<img src="https://github.com/user-attachments/assets/ea7c3a67-6c9b-48dd-a2d4-a972447b0f89" width="200" ><img src="https://github.com/user-attachments/assets/58b4d61e-1203-46ba-9422-2105a25685f0" width="200" >
 
 
 
